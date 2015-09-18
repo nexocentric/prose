@@ -7,3 +7,4 @@ oauth.json
 test/lib/index.js
 test/lib/polyfill.js
 _site/
+*.sublime-*
